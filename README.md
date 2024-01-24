@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Felipe, a passionate software development student with a penchant for creating innovative solutions and delving into the complexities of code. My GitHub profile is more than just a collection of repositories, it's my process of learning and developing in the world of programming in languages like HTML, CSS, and JavaScript!!!
+## Hello! 👋 I'm Felipe, a passionate software development student with a penchant for creating innovative solutions and delving into the complexities of code. My GitHub profile is more than just a collection of repositories, it's my process of learning and developing in the world of programming in languages like HTML, CSS, and JavaScript!!! ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipLucas&theme=dark&show_icons=true" />
 </a>
