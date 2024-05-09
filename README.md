@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="gif" height="200px" width="250px" border-radius="10px" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1285.gif">
+  <img align="right" alt="gif" height="200px" width="250px" border-radius="10px" src="https://media.tenor.com/JFVmS0FMQFAAAAAC/haise-sasaki-kaneki-ken.gif">
 </div>
   
   ##
