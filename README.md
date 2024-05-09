@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="gif" height="250px" width="300px" border-radius="10px" src="https://i.pinimg.com/originals/ad/49/06/ad4906daccc1e436cc4b8f0c6fe395ab.gif">
+  <img align="right" alt="gif" height="250px" width="350px" border-radius="10px" src="https://i.pinimg.com/originals/ad/49/06/ad4906daccc1e436cc4b8f0c6fe395ab.gif">
 </div>
   
   ##
