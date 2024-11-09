@@ -144,7 +144,7 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display:flex; align-items:center">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -159,5 +159,4 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiradv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
