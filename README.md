@@ -1,6 +1,6 @@
 # 👨‍💻 Felipe Ferreira
 
-**`Desenvolvedo FullStack`**
+**`Desenvolvedor FullStack`**
 
 Hello! 👋 I'm Felipe, a passionate software development student with a penchant for creating innovative solutions and delving into the complexities of code. My GitHub profile is more than just a collection of repositories, it's my process of learning and developing in the world of programming in languages like HTML, CSS, and JavaScript!!! 
 
