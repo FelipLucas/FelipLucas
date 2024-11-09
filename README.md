@@ -149,7 +149,6 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=FelipeFerreiradv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
