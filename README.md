@@ -144,7 +144,7 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
 
 ### 📊 Estatísticas
 
-<div style="display:flex; align-items:center;">
+<div style="display:flex; align-items:center; gap:15px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
