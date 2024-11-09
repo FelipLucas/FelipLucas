@@ -40,7 +40,7 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
 
 ---
 
-### 🖥️ languages ​​and technologies
+### 🖥️ Languages ​​and Technologies
 
 <img 
     align="left" 
