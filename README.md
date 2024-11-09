@@ -160,14 +160,3 @@ padding-right="15px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiradv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-<div>
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-        width="250"
-      height="200" 
-        padding-top="20px"
-        object-fit="cover"
-      src="https://i.pinimg.com/originals/b6/99/ed/b699ed21dd65bd6de4c6c721a69f8280.gif" 
-  />
-</div>
