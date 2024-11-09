@@ -164,9 +164,10 @@ padding-right="15px"
 <img 
       align="right" 
       alt="GitHub Stats" 
-        width="300"
+        width="250"
       height="200" 
         padding-top="20px"
+        object-fit="cover"
       src="https://i.pinimg.com/originals/b6/99/ed/b699ed21dd65bd6de4c6c721a69f8280.gif" 
   />
 </div>
