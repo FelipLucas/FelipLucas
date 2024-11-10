@@ -26,7 +26,7 @@ Hello! 👋 I'm Felipe, a passionate software development student with a penchan
     src="https://custom-icon-badges.demolab.com/github/followers/FelipeFerreiradv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 />
 </a>
-<a href="https://www.linkedin.com/in/felipe-lucas-4a45262a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/felipe-ferreira-4a45262a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhkuZmhuqQw2AIwZWLuzS1g%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
 <img 
     alt="Total de estrelas" 
